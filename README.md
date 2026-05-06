@@ -17,7 +17,6 @@
 
 ```bash
 👤 >> 17 years old, french developer.
-📧 >> YOUR_EMAIL@gmail.com
 🦊 >> Python, JavaScript, GoLang & more
 ```
 
