@@ -6,11 +6,11 @@
   💜 <b>Follow me here:</b>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">Discord</a> | <a href="https://t.me/YOUR_TELEGRAM_USERNAME">Telegram</a>
+ <a href="https://t.me/SKYZUN">Telegram</a>
 </p>
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_OR_GIF_URL" alt="banner" width="500"/>
+  <img src="[YOUR_BANNER_IMAGE_OR_GIF_URL](https://media1.tenor.com/m/go2GjLZ5QIQAAAAC/rayneames-mashle.gif)" alt="banner" width="500"/>
 </p>
 
 <hr>
@@ -23,10 +23,10 @@
 
 <hr>
 
-<h2 align="center">YOUR_USERNAME's GitHub Stats</h2>
+<h2 align="center">SKYZUN's GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKYZUN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 <hr>
