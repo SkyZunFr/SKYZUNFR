@@ -22,12 +22,6 @@
 
 <hr>
 
-<h2 align="center">SKYZUN's GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKYZUN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
 <hr>
 
 <h3 align="center">🛠️ Languages & Tools</h3>
