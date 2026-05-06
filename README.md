@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="[YOUR_BANNER_IMAGE_OR_GIF_URL](https://media1.tenor.com/m/go2GjLZ5QIQAAAAC/rayneames-mashle.gif)" alt="banner" width="500"/>
+  <img src="https://media1.tenor.com/m/go2GjLZ5QIQAAAAC/rayneames-mashle.gif" alt="banner" width="500"/>
 </p>
 
 <hr>
