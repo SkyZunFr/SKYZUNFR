@@ -35,5 +35,5 @@
 <h3 align="center">📊 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYZUNFR&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"/>
 </p>
